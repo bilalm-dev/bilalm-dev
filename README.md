@@ -43,14 +43,6 @@ Bot Discord polyvalent avec commandes utilitaires, mini-jeux interactifs et rapp
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=bilalm-dev&show_icons=true&theme=default&hide_border=true&locale=fr)
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalm-dev&layout=compact&hide_border=true&locale=fr)
-
----
-
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/[ton-profil-linkedin]](https://www.linkedin.com/in/bilal-mesbahi/))
